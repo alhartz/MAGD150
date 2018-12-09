@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## My Projects
 
-You can use the [editor on GitHub](https://github.com/alhartz/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+I created these projects my Freshman year for my MAGD150 course. These projects were created using Processing 3.4.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Space Project
 
-### Markdown
+[Space Project](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab02_hartz.pde) is the second project that I completed using Processing.
+The guidelines for this project was to adhere to a space theme and use the RGB, HEX, and HSB color modes. We were also supposed to use three different
+compositional elements. I incorporated triangles, arcs, and the beginShape functions. Even though this was one of my first and most simple projects,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I really like how it turned out. I love the colors that I used, and I am very proud of this project as a whole.
+
+### Ocean Project
+
+[Ocean Project](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab04_hartz.zip) is the fourth project that I completed in my MAGD150 course.
+The guidelines for this project was to adhere to an ocean theme. I was also instructed to incorporate the mousePressed function
+
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +40,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alhartz/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

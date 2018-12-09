@@ -1,6 +1,7 @@
 # My Projects
 
 I created these projects my Freshman year for my MAGD150 course using Processing 3.4
+
 ## Space Project
 
 [Lab 2](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab02_hartz.pde) is the second project that I completed using Processing.
@@ -24,6 +25,7 @@ My buttons changed the color of the TV— the power button turned the screen bla
 
 
 ## Screensaver Project
+
 [Lab 6](https://github.com/alhartz/MAGD150/blob/gh-pages/f18_magd150_lab06_hartz.zip) is the sixth project that I created using Processing.
 The guidelines for this project was to adhere to a screensaver theme. This project was a little different than the other projects I worked on in this class because it did not require me to create a specific type of scene, and was a lot more abstract and open ended. I was required to create and call on my own original functions, and construct my own class.
 
@@ -31,10 +33,12 @@ I  made it so that you can "erase" a portion of my screensaver by clicking and h
 
 
 ## Transformation Project
+
 [Lab 7](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab07_hartz.zip) is the seventh project that I created using Processing.
 The guidelines for this project was to adhere to a nature theme. I was also required to create and use 3 PVectors, along with 3 PVector functions, as well as to incorporate the rotate, translate, and scale transformations, and use a one or two-dimensional array. 
 
 This project allowed me to go back to creating landscape proejects, which I am most comfortable with. I really liked how I made the sun rays move dependant on the location of my mouse on screen. I think this project is fairly visually appealing, and I like how it turned out. 
+
 
 ### Overall
 

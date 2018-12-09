@@ -2,4 +2,15 @@
 
 I created these projects my Freshman year for my MAGD150 course. These projects were created using Processing 3.4.
 
-### Space Scene
+### Space Project
+
+[Space Project](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab02_hartz.pde) is the second project that I completed using Processing.
+The guidelines for this project was to adhere to a space theme and use the RGB, HEX, and HSB color modes. We were also supposed to use three different
+compositional elements. I incorporated triangles, arcs, and the beginShape functions. Even though this was one of my first and most simple projects,
+
+I really like how it turned out. I love the colors that I used, and I am very proud of this project as a whole.
+
+### Ocean Project
+
+[Ocean Project](https://github.com/alhartz/MAGD150/blob/gh-pages/f18magd150lab04_hartz.zip) is the fourth project that I completed in my MAGD150 course.
+The guidelines for this project was to adhere to an ocean theme. I was also instructed to incorporate the mousePressed function
